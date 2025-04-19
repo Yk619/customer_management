@@ -7,7 +7,7 @@ A production-ready API with Multi-Factor Authentication (MFA) and customer CRUD 
 Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/laravel-mfa-api.git
+git clone project_path
 cd folder_name
 composer install
 npm install
